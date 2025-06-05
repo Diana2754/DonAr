@@ -34,6 +34,6 @@ Una plataforma pensada para quienes desean **donar** y para organizaciones que b
 ## 🤝 Contribuciones
 
 - ¡Las contribuciones son bienvenidas! Si querés colaborar, abrí un issue o hacé un fork y creá tu pull request.
-- 📍 Contexto local
+##  📍 Contexto local
 
 - Esta aplicación fue pensada especialmente para el contexto social de Argentina, con el propósito de facilitar las donaciones a comedores, fundaciones y organizaciones solidarias del país.

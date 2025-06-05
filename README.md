@@ -1,4 +1,4 @@
-# 🇦🇷 donAR
+# donAR
 
 **donAR** es una aplicación web desarrollada con el objetivo de **conectar personas solidarias** en Argentina, facilitando la donación de **alimentos, ropa y otros artículos esenciales** a organizaciones que los necesitan.
 
